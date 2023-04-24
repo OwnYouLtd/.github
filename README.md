@@ -1,1 +1,1 @@
-# .github
+We invite the world to join us in building and adopting open and decentralized technologies that solve real problems for real people. We believe an open source model will win in a decentralized, permissionless world. We’re thrilled you’re here to connect, learn, share and contribute with us!

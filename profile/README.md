@@ -14,7 +14,7 @@ Ultimately, OwnYou will form the base personal data layer for intelligent person
 
 ### Contributions
 
-There are a couple of ways you can discuss new ideas and contributions to the architecture. You can submit a new issue on this discord repo or you can drop into the relevant Discord channel:
+There are a couple of ways you can discuss new ideas and contributions to the architecture. You can submit a new issue in this repo, or a more relevant OwnYou repo, you can create a new discussion or or you can drop into the relevant Discord channel:
 
 - [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315), a community of independent machine learning experts, extracting intelligence from private personal data.
 - [Decentralized Storage](https://discord.com/channels/960473414978646036/986321420273459330), that allows individuals to store their raw personal data in a secure manner and run third party machine learning algorithms in a privacy preserving manner.
@@ -28,14 +28,9 @@ You can contact Nick Longcroft by DMing him on [Twitter](https://twitter.com/nlo
 
 This site is managed by OwnYou Ltd but all feedback and contributions are welcome.
 
+Please remember:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Treat everyone with respect. Absolutely no harassment,  sexism, racism, or hate speech will be tolerated.
+- No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, violence, or other graphically disturbing content.
+- If you see something that makes you feel unsafe, let me know. We want this community to be a welcoming one!
+- No spam or self-promotion (advertisements etc).

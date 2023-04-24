@@ -1,5 +1,5 @@
 <p align="center">
- <img width="276" alt="avatar-pl" src="https://user-images.githubusercontent.com/59603369/233973022-632e6679-4c97-4d8e-8760-8d26fb4d6a61.jpg">
+ <img width="276" alt="avatar-pl" src="https://user-images.githubusercontent.com/59603369/233973331-f19664c2-1058-423e-a582-c0d0587a45e7.jpg">
 </p>
 
 ### Vision

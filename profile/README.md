@@ -4,7 +4,7 @@
 
 ### Vision
 
-We are building core architecture for individuals to harvest their own personal data, make it available to third party machine learning entities (the Intelligence Stack) to extract and monetize intelligent personal profiles, in a privacy preserving manner.
+We are building core [architecture](https://www.ownyou.io/docs/what/) for individuals to harvest their own personal data, make it available to third party machine learning entities (the [Intelligence Stack](https://www.ownyou.io/docs/intelligence_stack/)) to extract and monetize intelligent personal profiles, in a privacy preserving manner.
 
 The OwnYou [documentation](www.ownyou.io) will help you better understand our vision and how the architecture works.
 

@@ -2,7 +2,8 @@
  <img alt="avatar-pl" src="https://user-images.githubusercontent.com/59603369/233973331-f19664c2-1058-423e-a582-c0d0587a45e7.jpg">
 </p>
 ---
-## Welcome to OwnYou's GitHub! :tada:
+
+## :tada: Welcome to OwnYou's GitHub! :tada:
 
 ### Vision
 

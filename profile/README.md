@@ -20,7 +20,7 @@ Ultimately, OwnYou will form the base personal data layer for intelligent person
 
 ### First things first
 
-Building an Minimal Viable Product (MVP) using the [MVP repo](https://github.com/OwnYouLtd/mvp). 
+Building a Minimal Viable Product (MVP) using the [MVP repo](https://github.com/OwnYouLtd/mvp). 
 
 - We need to get OwnYou into individual user hands as soon as possible, helping them to collect their personal data and helping them to extract intelligent profiles.
 - We want publishers to use the OwnYou login button, helping individuals get access to high quality content in exchange for sharing those profiles.

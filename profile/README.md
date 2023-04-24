@@ -2,7 +2,7 @@
 
 We are building core architecture for individuals to harvest their own personal data, make it available to third party machine learning entities to extract and monetize intelligent personal profiles, in a privacy preserving manner.
 
-The OwnYou documentation will help you better understand our vision and how the architecture works.
+The OwnYou [documentation](www.ownyou.io) will help you better understand our vision and how the architecture works.
 
 We want this to remain an open source project. Your contribution will bring OwnYou to life.
 

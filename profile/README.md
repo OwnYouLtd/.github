@@ -1,4 +1,6 @@
-<img width="276" alt="avatar-pl" src="https://user-images.githubusercontent.com/59603369/233972564-bda7144a-bdd9-4378-a3bb-dadcc6ab620f.png">
+<p align="center">
+ <img width="276" alt="avatar-pl" src="https://user-images.githubusercontent.com/59603369/233972564-bda7144a-bdd9-4378-a3bb-dadcc6ab620f.png">
+</p>
 
 ### Vision
 

@@ -12,7 +12,7 @@ We want this to remain an open source project. Your contribution will bring OwnY
 
 Ultimately, OwnYou will form the base personal data layer for intelligent personal AI. But before we get to that, we need to figure out:
 
-- how to efficiently harvest an individual's personal data in secure decentralized storage,
+- how to efficiently harvest an individual's personal data into secure decentralized storage,
 - how to make that data available to third party machine learning algorithms, and
 - how to help individuals share, and monetize, their intelligent profiles with advertisers, and other commercial opportunities, in a privacy preserving manner.
 

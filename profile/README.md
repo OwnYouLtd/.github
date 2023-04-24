@@ -28,7 +28,7 @@ You can contact Nick Longcroft by DMing him on [Twitter](https://twitter.com/nlo
 
 This site is managed by OwnYou Ltd but all feedback and contributions are welcome.
 
-Please remember:
+### Please remember
 
 - Treat everyone with respect. Absolutely no harassment,  sexism, racism, or hate speech will be tolerated.
 - No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, violence, or other graphically disturbing content.

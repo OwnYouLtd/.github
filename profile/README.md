@@ -14,14 +14,6 @@ Ultimately, OwnYou will form the base personal data layer for intelligent person
 
 ### Contributions
 
-There are a few ways you can discuss new ideas and contributions to the architecture. You can submit a new issue in this repo, or a more relevant OwnYou repo, you can create a new discussion or or you can drop into the relevant Discord channel:
-
-- [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315), a community of independent machine learning experts, extracting intelligence from private personal data.
-- [Decentralized Storage](https://discord.com/channels/960473414978646036/986321420273459330), that allows individuals to store their raw personal data in a secure manner and run third party machine learning algorithms in a privacy preserving manner.
-- [Digital Advertising](https://discord.com/channels/960473414978646036/1078613236741574696) using OwnYou's privacy preserving, equitable, personal data
-- [Other applications](https://discord.com/channels/960473414978646036/1078613645673648138) that leverage intelligent privacy preserving personal data
-- [Incentivization](https://discord.com/channels/960473414978646036/1078614046808481843) architecture that compensates the intelligence stack, compute and storage suppliers, and individuals for sharing their personal, albeit pseudonymous, data.
-
 We review contributions to the codebase via GitHub's Pull Request mechanism. We have the following guidelines to ease your experience and help our leads respond quickly to your valuable work:
 
 * Start by proposing a change either in Issues (most appropriate for small change requests or bug fixes) or in Discussions (most appropriate for design and architecture considerations, proposing a new feature, or where you'd like insight and feedback) or in Discord.
@@ -33,7 +25,17 @@ We review contributions to the codebase via GitHub's Pull Request mechanism. We 
   * Open a PR in the project to bring in the code from your feature branch.
   * The maintainers noted in the `CODEOWNERS` file will review your PR and optionally open a discussion about its contents before moving forward.
 * Remain responsive to follow-up questions, be open to making requested changes, and...You're a contributor!
-* And remember to respect everyone in our global development community. Guidelines are established in our `CODE_OF_CONDUCT.md`, but...
+* And remember to respect everyone in our global development community. Guidelines are established in our `CODE_OF_CONDUCT.md`.
+
+### Discord
+
+There are a few ways you can discuss new ideas and contributions to the architecture. If you want to use Discord, the following channels might help focus the dicussion:
+
+- [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315), a community of independent machine learning experts, extracting intelligence from private personal data.
+- [Decentralized Storage](https://discord.com/channels/960473414978646036/986321420273459330), that allows individuals to store their raw personal data in a secure manner and run third party machine learning algorithms in a privacy preserving manner.
+- [Digital Advertising](https://discord.com/channels/960473414978646036/1078613236741574696) using OwnYou's privacy preserving, equitable, personal data
+- [Other applications](https://discord.com/channels/960473414978646036/1078613645673648138) that leverage intelligent privacy preserving personal data
+- [Incentivization](https://discord.com/channels/960473414978646036/1078614046808481843) architecture that compensates the intelligence stack, compute and storage suppliers, and individuals for sharing their personal, albeit pseudonymous, data.
 
 ### Please remember
 

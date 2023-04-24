@@ -16,6 +16,16 @@ Ultimately, OwnYou will form the base personal data layer for intelligent person
 - how to make that data available to third party machine learning algorithms, and
 - how to help individuals share, and monetize, their intelligent profiles with advertisers, and other commercial opportunities, in a privacy preserving manner.
 
+### First things first
+
+We need to get OwnYou into people hands as soon as possible, helping them to collect their personal data, helping them extract intelligent profiles.
+We want publishers to use the OwnYou login button, helping individuals get access to high quality content.
+We want advertisers to learn and use our new attribution framework.
+
+All of this needs to come together in a minimal viable product (MVP).
+More detailed requirements for this MVP will emerge in the Projects section, before becoming Pull Requests, and then product.
+We encourage discussions in the [Discussion](https://github.com/OwnYouLtd/.github/discussions) section or in [Discord](https://discord.com/channels/960473414978646036/960473414978646040).
+
 ### Contributions
 
 We review contributions to the codebase via GitHub's Pull Request mechanism. We have the following guidelines to ease your experience and help our leads respond quickly to your valuable work:

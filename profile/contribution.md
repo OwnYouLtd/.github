@@ -7,3 +7,11 @@ There are a few ways you can discuss new ideas and contributions to the architec
 - [Digital Advertising](https://discord.com/channels/960473414978646036/1078613236741574696) using OwnYou's privacy preserving, equitable, personal data
 - [Other applications](https://discord.com/channels/960473414978646036/1078613645673648138) that leverage intelligent privacy preserving personal data
 - [Incentivization](https://discord.com/channels/960473414978646036/1078614046808481843) architecture that compensates the intelligence stack, compute and storage suppliers, and individuals for sharing their personal, albeit pseudonymous, data.
+
+There are many ways to be an open source contributor, and we're here to help you on your way! You may:
+
+- Propose ideas in our discussion forums (github or discord).
+- Raise an issue or feature request in our issue tracker.
+- Help another contributor with one of their questions, or a code review.
+- Suggest improvements to our documentation by supplying a Pull Request (docs repo).
+- Evangelize our work together in conferences, podcasts, and social media spaces.

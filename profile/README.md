@@ -8,8 +8,12 @@
 
 We are building core [architecture](https://www.ownyou.io/docs/what/) for individuals to harvest their own personal data, make it available to third party machine learning entities (the [Intelligence Stack](https://www.ownyou.io/docs/intelligence_stack/)) to extract and monetize intelligent personal profiles, in a privacy preserving manner.
 
->[!Note]
-> Test
+.markdown-body .callout.callout_warn {
+  --text: #6a737d;  // theme text color default
+  --title: inherit; // theme title color (falls back to text color by default)
+  --background: #f8f8f9;
+  --border: #8b939c;
+}
 
 The OwnYou [documentation](www.ownyou.io) will help you better understand our vision and how the architecture works.
 
